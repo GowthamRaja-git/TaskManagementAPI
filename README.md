@@ -98,6 +98,9 @@ TaskManagementAPI/
 └── README.md
 ```
 
+![ER_Diagram](https://github.com/user-attachments/assets/c13616e6-693d-4c33-af20-8241bd5f1883)
+
+
 ---
 
 ## ✅ Endpoints Overview
