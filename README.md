@@ -105,11 +105,9 @@ TaskManagementAPI/
 
 ## ✅ Endpoints Overview
 
-- `GET /api/tasks` — Get all tasks
-- `GET /api/tasks/{id}` — Get task by ID
 - `POST /api/tasks` — Create new task
-- `PUT /api/tasks/{id}` — Update task
-- `DELETE /api/tasks/{id}` — Delete task
+- `GET /api/tasks/{id}` — Get task by ID
+- `GET /api/user/{userId}` — Get tasks assigned to a specific user   
 
 ---
 
