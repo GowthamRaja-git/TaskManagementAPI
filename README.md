@@ -65,10 +65,17 @@ Once running, navigate to:
 https://localhost:7208/swagger
 ```
 
-
+```
 docker build -t taskmanagement-api .
+```
+
+```
 docker run -d -p 8080:5270 --name task-api taskmanagement-api
+```
+
+```
 http://localhost:8080/swagger
+```
 
 
 This opens the Swagger UI where you can explore and test the API endpoints.
